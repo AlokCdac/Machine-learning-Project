@@ -1,6 +1,6 @@
+numpy
 Flask
 gunicorn
 sklearn
 pandas
-numpy
--e.
+-e .
